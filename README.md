@@ -8,27 +8,38 @@ Bachelor’s Degree in **Public Policy** with a structured and analytical approa
 
 ---
 
-## 🛠️ Core Skills
+🛠️ Core Technical Skills
+IT Support & Infrastructure
 
-### IT & SysAdmin
-- IT Support Level 2 / L2/L3 Troubleshooting  
-- Active Directory (AD) & Samba administration  
-- Network configuration & maintenance  
-- User & group management, permissions & access control  
-- Basic infrastructure monitoring & security  
-- Backups & operational automation  
-- Documentation & workflow optimization  
+L2/L3 Technical Support
 
-### Data & Analytics
-- **Power BI:** Dashboards, DAX, KPIs, reporting  
-- Data analysis for management & decision-making  
-- Descriptive analysis & operational metrics  
-- Process optimization & automation  
+Active Directory (User provisioning, password resets, group policies)
 
-### Project & Workflow Management
-- Scrum & Kanban methodologies  
-- Planning & supervision of projects  
-- Team coordination & performance tracking  
+Folder permissions & network file sharing
+
+Microsoft 365 administration
+
+Samba Server configuration
+
+VPN support (basic configuration & troubleshooting)
+
+TCP/IP, DNS, RDP
+
+Incident management
+
+Remote support operations
+
+Backup routines
+
+Technical documentation
+
+Automation
+
+Bash scripting for task automation
+
+Workflow optimization
+
+Operational efficiency improvements
 
 ---
 
